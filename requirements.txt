@@ -1,0 +1,8 @@
+pandas
+yfinance
+seaborn
+riskfolio-lib
+openbb
+numpy
+vectorbt
+scipy
